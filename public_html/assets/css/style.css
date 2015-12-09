@@ -1,0 +1,54 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+.container{
+	width: 1024px;
+}
+
+header{
+	height: 240px;
+	display: block;
+	width: 100%;
+}
+
+#logo{
+	display: block;
+	max-width: 560px;
+}
+
+#logo img{
+	width: 100%;
+}
+
+/* Homepage banners */
+
+#overlay{
+	position: absolute;
+	z-index: 1;
+}
+
+.carousel-caption{
+	left: 50px;
+	top: 50px;
+	right: 0;
+	max-width: 300px;
+	text-align: left;
+	color: black;
+}
+
+.carousel-caption p{
+	padding: 24px 0;
+	font-size: 17px;
+	font-weight: 300;
+	line-height: 1.2em;
+	text-shadow: none;
+}
+
+.carousel-caption a{
+	display: block;
+	color: black;
+	margin-top: 24px;
+	font-size: 18px;
+	font-weight: 400;
+}
