@@ -2,44 +2,87 @@
 	font-family: 'Roboto', sans-serif;
 }
 
+a{
+	outline: none !important;
+}
+
 .container{
 	width: 1024px;
 }
 
+/* Homepage header */
 header{
-	height: 240px;
+	height: 195px;
 	display: block;
 	width: 100%;
+}
+
+header .container{
+	background-color: #fff;
+	position: absolute;
+	left:0;
+	right:0;
+}
+
+#blank-left{
+	background: #000;
+	height: 165px;
+	width: 50%;
+}
+
+#blank-right{
+	width:50%;
+	height:165px;
 }
 
 #logo{
 	display: block;
 	max-width: 560px;
+	max-height: 165px;
+	margin-left: -200px;
 }
 
 #logo img{
-	width: 100%;
+	height:165px;
+}
+
+.contacts{
+	padding: 20px;
+	color: #999999;
+	font-size: 15px;
+	height: 100%;
+	line-height: 120%;
+	text-transform: uppercase;
+}
+
+.navbar-header{
+	margin-top: 70px;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+
+.navbar-header a{
+	color: #000;
 }
 
 /* Homepage banners */
 
-#overlay{
+.overlay{
 	position: absolute;
 	z-index: 1;
 }
 
 .carousel-caption{
-	left: 50px;
-	top: 50px;
+	left: 30px;
+	top: 10px;
 	right: 0;
-	max-width: 300px;
 	text-align: left;
 	color: black;
 }
 
 .carousel-caption p{
 	padding: 24px 0;
-	font-size: 17px;
+	font-size: 16px;
 	font-weight: 300;
 	line-height: 1.2em;
 	text-shadow: none;
@@ -51,4 +94,73 @@ header{
 	margin-top: 24px;
 	font-size: 18px;
 	font-weight: 400;
+}
+
+/* Section with categories */
+.sections{
+	margin-top: 30px;
+}
+.sections a img{
+	width: 100%;
+}
+
+/* Footer */
+footer{
+	background: #f2f2f2 none repeat scroll 0 0;
+	margin-top: 30px;
+	padding: 30px 0;
+	position: relative;
+}
+
+.foot-lines{
+	position: absolute;
+	top:0;
+	left: 500px;
+	background: url("../img/foot_lines.png") no-repeat;
+	background-size: 110%;
+	width: 382px;
+	height: 100%;
+}
+
+#foot-logo{
+	width: 282px;
+}
+
+.foot-menu h2{
+	margin-top:0;
+	text-transform: uppercase;
+	color: #000;
+	font-size: 18px;
+}
+
+.foot-menu ul{
+	list-style: none;
+	padding-left:0;
+}
+.foot-menu li{
+	line-height: 18px;
+}
+.foot-menu li a{
+	color: #666;
+}
+
+#phone{
+	display: block;
+	margin-top:30px;
+	padding-left: 0;
+}
+
+#phone + a{
+	color: #999999;
+}
+
+.facebook{
+	display: block;
+	background: url("../img/facebook.png") no-repeat center top;
+	height: 26px;
+	width: 13px;
+	margin: 0 auto;
+}
+.facebook:hover{
+	background-position: bottom;
 }
