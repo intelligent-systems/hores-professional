@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1143fb21-a03e-44ec-b3ce-68859a7cf3cd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/beaumont.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/beaumont.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/bormioli_rocco.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/bormioli_rocco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/cocktail_kingdom.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/cocktail_kingdom.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/eternum.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/eternum.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/hamilton.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/hamilton.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/libbey.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/libbey.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/pasabahce.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/pasabahce.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/rak.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/rak.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/santos.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/santos.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/schott.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/schott.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/steelite.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/steelite.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/supreminox.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/supreminox.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/banners/utopia.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/banners/utopia.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/css/style.css" afterPath="$PROJECT_DIR$/public_html/assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/index.html" afterPath="$PROJECT_DIR$/public_html/index.html" />
     </list>
@@ -38,26 +24,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public_html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.0">
-              <caret line="436" column="33" selection-start-line="436" selection-start-column="33" selection-end-line="436" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.6217733">
+              <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
               <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34146342">
-              <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
+            <state vertical-scroll-proportion="-10.684211">
+              <caret line="56" column="7" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -71,8 +56,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public_html/index.html" />
         <option value="$PROJECT_DIR$/public_html/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/public_html/index.html" />
       </list>
     </option>
   </component>
@@ -275,10 +260,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -288,10 +272,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -301,24 +284,23 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/index.html">
+    <entry file="file://$PROJECT_DIR$/public_html/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.0">
-          <caret line="436" column="33" selection-start-line="436" selection-start-column="33" selection-end-line="436" selection-end-column="33" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-10.684211">
+          <caret line="56" column="7" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/public_html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34146342">
-          <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
-          <folding />
+        <state vertical-scroll-proportion="0.6217733">
+          <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

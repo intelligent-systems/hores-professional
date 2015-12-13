@@ -54,6 +54,14 @@ header .container{
 	line-height: 120%;
 	text-transform: uppercase;
 }
+.lang *{
+	padding:0;
+	text-align: right;
+}
+.lang a{
+	color: black;
+	font-size: 13px;
+}
 
 .navbar-header{
 	margin-top: 70px;
