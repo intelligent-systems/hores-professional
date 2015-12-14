@@ -67,7 +67,7 @@ header .container{
 }
 
 .contacts + .row{
-	text-align: right;
+	text-align: center;
 }
 
 .login{
@@ -83,7 +83,6 @@ header .container{
 }
 
 .lang *{
-	text-align: right;
 	font-size:13px;
 }
 .lang a{
@@ -105,14 +104,14 @@ header .container{
 	border-right:1px solid #ddd;
 }
 
-.login{
-	
-}
-
 .glyphicon-search{
 	float: right;
 	font-size: 18px;
 	margin-top: -4px;
+}
+
+.navbar-header{
+	margin-right:-13px;
 }
 
 .navbar-header a{
@@ -122,6 +121,11 @@ header .container{
 .navbar-brand{
 	width: 100%;
 	max-width: 20%;
+	font-weight:bold;
+}
+
+.navbar-brand:hover{
+	text-decoration: underline;
 }
 
 .navbar-brand:last-of-type{
@@ -178,7 +182,7 @@ footer{
 .foot-lines{
 	position: absolute;
 	top:0;
-	left: 500px;
+	left: 380px;
 	background: url("../img/foot_lines.png") no-repeat;
 	background-size: 110%;
 	width: 382px;
@@ -186,7 +190,8 @@ footer{
 }
 
 #foot-logo{
-	width: 282px;
+	width: 200px;
+	margin-top:4px;
 }
 
 .foot-menu h2{
@@ -195,7 +200,7 @@ footer{
 	color: #000;
 	font-size: 18px;
 	font-weight: bold;
-	margin-top: 15px;
+	margin-top: 0;
 }
 
 .foot-menu ul{
