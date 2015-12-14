@@ -12,7 +12,7 @@ a{
 
 /* Homepage header */
 header{
-	height: 195px;
+	height: 150px;
 	display: block;
 	width: 100%;
 }
@@ -24,39 +24,62 @@ header .container{
 	right:0;
 }
 
+#myCarousel{
+	margin-top:30px;
+}
+
 #blank-left{
 	background: #000;
-	height: 165px;
+	height: 150px;
 	width: 50%;
 }
 
 #blank-right{
 	width:50%;
-	height:165px;
+	border-bottom: 1px solid #ddd;
+	height: 41px;
 }
 
 #logo{
-	display: block;
-	max-width: 560px;
-	max-height: 165px;
-	margin-left: -200px;
+	background: black;
+	margin-left: -15px;
 }
 
 #logo img{
-	height:165px;
+	height:150px;
 }
 
 .contacts{
-	padding: 20px;
 	color: #999999;
-	font-size: 15px;
-	height: 100%;
+	font-size: 13px;
+	height: 41px;
+	border-bottom:1px solid #ddd;
 	line-height: 120%;
 	text-transform: uppercase;
+	margin-left:-25px;
 }
-.lang *{
-	padding:0;
+.contacts > *{
+	height: 40px;
+	vertical-align: middle;
+	padding-top: 15px;
+	padding-left: 25px;
+
+}
+
+.contacts + .row{
 	text-align: right;
+}
+
+.login{
+	text-align: center;
+	border-right:1px solid #ddd;
+	padding-left:0;
+	padding-right:0;
+}
+
+.lang *{
+	text-align: right;
+	font-size:13px;
 }
 .lang a{
 	color: black;
@@ -64,13 +87,39 @@ header .container{
 }
 
 .navbar-header{
-	margin-top: 70px;
+	margin-top: 40px;
 	text-transform: uppercase;
 	font-size: 20px;
+	width: 100%;
+}
+
+#search{
+	vertical-align: middle;
+	border-left:1px solid #ddd;
+	border-right:1px solid #ddd;
+}
+
+.login{
+	
+}
+
+.glyphicon-search{
+	float: right;
+	font-size: 18px;
+	margin-top: -4px;
 }
 
 .navbar-header a{
 	color: #000;
+}
+
+.navbar-brand{
+	width: 100%;
+	max-width: 20%;
+}
+
+.navbar-brand:last-of-type{
+	padding-right:0;
 }
 
 /* Homepage banners */
@@ -139,6 +188,8 @@ footer{
 	text-transform: uppercase;
 	color: #000;
 	font-size: 18px;
+	font-weight: bold;
+	margin-top: 15px;
 }
 
 .foot-menu ul{
@@ -156,6 +207,8 @@ footer{
 	display: block;
 	margin-top:30px;
 	padding-left: 0;
+	margin-left:0;
+	border-bottom: 0;
 }
 
 #phone + a{
@@ -163,11 +216,27 @@ footer{
 }
 
 .facebook{
-	display: block;
+	display: inline-block;
 	background: url("../img/facebook.png") no-repeat center top;
 	height: 26px;
 	width: 13px;
-	margin: 0 auto;
+	vertical-align: middle;
+}
+.twitter{
+	display: inline-block;
+	background: url("../img/twitter.png") no-repeat center top;
+	width: 32px;
+	height: 28px;
+	vertical-align: middle;
+	margin:0 12px;
+}
+.pinterest{
+	display: inline-block;
+	background: url("../img/pinterest.png") no-repeat center top;
+	width:31px;
+	height:31px;
+	vertical-align: middle;
+
 }
 .facebook:hover{
 	background-position: bottom;
