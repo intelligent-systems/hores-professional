@@ -90,6 +90,9 @@ header .container{
 	font-size: 13px;
 	text-decoration: none;
 }
+.lang a:hover {
+	text-decoration: underline !important;
+}
 
 .navbar-header{
 	margin-top: 40px;
